@@ -1,4 +1,4 @@
-# Tencent Ads 2026 0.8322 代码
+# Tencent Advertising Algorithm Competition 2026 && KDD CUP 0.8322 代码
 
 本仓库是在腾讯广告算法大赛 2026 baseline 上逐步改出来的一版 PCVR 预测代码，最终线上分数为 **0.8322**，排名 **47**。主要围绕时间特征、序列兴趣匹配、训练样本时间窗口、用户 dense 特征处理和稀疏参数训练稳定性做了迭代。
 
