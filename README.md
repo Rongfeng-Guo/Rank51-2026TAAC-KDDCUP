@@ -1,6 +1,6 @@
-# Rank53-2026TAAC-KDDCUP
+# Rank51-2026TAAC-KDDCUP
 
-本仓库为队伍 **exclusive** 在腾讯广告算法大赛 2026 Academic Track 的开源代码。最终线上分数为 **0.832321**，排名 **53**。主要围绕时间特征、序列兴趣匹配、训练样本时间窗口、用户 dense 特征处理和稀疏参数训练稳定性做了迭代。
+本仓库为队伍 **exclusive** 在腾讯广告算法大赛 2026 Academic Track 的开源代码。最终线上分数为 **0.832321**，排名 **51**。主要围绕时间特征、序列兴趣匹配、训练样本时间窗口、用户 dense 特征处理和稀疏参数训练稳定性做了迭代。
 
 ![Leaderboard](assets/leaderboard.jpg)
 
